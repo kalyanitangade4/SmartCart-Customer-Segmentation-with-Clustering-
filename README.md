@@ -29,8 +29,6 @@ Retailers often struggle to tailor marketing spend efficiently when treating all
 
 **File:** `smartcart.csv` (2,240 rows × 22 columns)
 
-> ⚠️ **Note:** The raw file was uploaded as `smartcart.xls`, but it is actually comma-delimited plain text (CSV), not a real Excel binary. Rename it to `smartcart.csv` before running the notebook, since it's loaded via `pd.read_csv("smartcart.csv")`.
-
 | Category | Columns | Description |
 |---|---|---|
 | **Identity** | `ID` | Unique customer identifier |
