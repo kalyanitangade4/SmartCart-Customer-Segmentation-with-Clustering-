@@ -190,7 +190,3 @@ Run all cells sequentially (`Kernel → Restart & Run All`). Ensure `smartcart.c
 This project is currently unlicensed. Consider adding an [MIT License](https://choosealicense.com/licenses/mit/) or similar if you plan to share or accept contributions publicly.
 
 ---
-
-## 🤝 Contributing
-
-Issues and pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
