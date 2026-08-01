@@ -14,7 +14,6 @@ Unsupervised learning project that segments retail customers into distinct group
 | Purchase behavior | `NumDealsPurchases`, `NumWebPurchases`, `NumCatalogPurchases`, `NumStorePurchases`, `NumWebVisitsMonth` |
 | Engagement | `Complain`, `Response` |
 
-> Note: the raw data file is comma-delimited; if it was downloaded with an `.xls` extension, rename it to `smartcart.csv` before running the notebook, or update the `pd.read_csv(...)` path accordingly.
 
 ## 🧠 Pipeline
 
