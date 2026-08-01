@@ -86,17 +86,6 @@ source venv/bin/activate      # On Windows: venv\Scripts\activate
 pip install pandas numpy matplotlib seaborn scikit-learn kneed
 ```
 
-Or, if you add a `requirements.txt`:
-
-```
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-kneed
-```
-
 ```bash
 pip install -r requirements.txt
 ```
