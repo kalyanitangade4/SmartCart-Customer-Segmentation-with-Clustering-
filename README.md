@@ -41,18 +41,6 @@ Retailers often struggle to tailor marketing spend efficiently when treating all
 
 ---
 
-## 📁 Repository Structure
-
-```
-.
-├── smartcart.ipynb      # Main analysis notebook (preprocessing → clustering)
-├── smartcart.csv         # Raw customer dataset (rename from .xls if needed)
-├── README.md             # Project documentation (this file)
-└── requirements.txt       # Python dependencies (optional, see below)
-```
-
----
-
 ## 🛠️ Requirements
 
 - Python 3.8+
