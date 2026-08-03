@@ -159,7 +159,7 @@ The final model identifies **4 customer segments**, primarily differentiated alo
 jupyter notebook smartcart.ipynb
 ```
 
-Run all cells sequentially (`Kernel → Restart & Run All`). Ensure you convert the 'smartcart.xls' to `smartcart.csv` before running the code as it is read in CSV format.
+Run all cells sequentially (`Kernel → Restart & Run All`). Ensure you convert the  `smartcart.xls` to `smartcart.csv` before running the code as it is read in CSV format.
 
 ---
 
