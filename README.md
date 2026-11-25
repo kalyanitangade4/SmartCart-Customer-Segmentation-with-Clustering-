@@ -63,8 +63,8 @@ Retailers often struggle to tailor marketing spend efficiently when treating all
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/smartcart.git
-cd smartcart
+git clone https://github.com/kalyanitangade4/SmartCart-Customer-Segmentation-with-Clustering-.git
+cd SmartCart-Customer-Segmentation-with-Clustering-
 
 # (Optional) create a virtual environment
 python -m venv venv
@@ -159,13 +159,12 @@ The final model identifies **4 customer segments**, primarily differentiated alo
 jupyter notebook smartcart.ipynb
 ```
 
-Run all cells sequentially (`Kernel → Restart & Run All`). Ensure you convert the  `smartcart.xls` to `smartcart.csv` before running the code as it is read in CSV format.
+Run all cells sequentially (`Kernel → Restart & Run All`).
 
 ---
 
 ## 🔮 Future Improvements
 
-- Add a `requirements.txt` or `environment.yml` for full reproducibility
 - Try alternative clustering algorithms (DBSCAN, Gaussian Mixture Models) for comparison
 - Add a train/holdout split to validate cluster stability over time
 - Build a simple dashboard (e.g., Streamlit) to explore clusters interactively
